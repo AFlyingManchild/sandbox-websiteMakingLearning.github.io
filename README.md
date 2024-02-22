@@ -1,7 +1,7 @@
 # Website Project
 
 website lessons for promotions
-image of gui u made
+image of gui u made https://img.freepik.com/premium-vector/music-player-concept-neumorphic-templates-set-player-interface-with-buttons-ui-ux-gui-screens_9209-7248.jpg
 feature desc
 
  - [ ] item 1
